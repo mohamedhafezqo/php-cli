@@ -1,3 +1,6 @@
+### Sequence diagram
+
+![Sequence Diagram](sequence-diagram.png)
 
 ### Class diagram
 
